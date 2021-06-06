@@ -3,3 +3,5 @@
 ################################################################################
 
 /src/.vs
+/src/Widec.Rewrite/bin/Debug
+/src/Widec.Rewrite/obj

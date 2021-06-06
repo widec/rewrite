@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Authors>Wim De Cleen</Authors>
+    <Company />
+    <Description>Supports a proxy to rewrite legacy code based on the article of ThoughtWorks, "Amortizing Software Rewrites: An Evolutionary Approach"
+</Description>
+    <Copyright>Wim De Cleen</Copyright>
+  </PropertyGroup>
+
+</Project>
